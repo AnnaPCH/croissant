@@ -1,5 +1,4 @@
 body {
-background: lightsalmon;
-font-family: monospace;
-
+  background: rgb(255, 255, 255);
+  font-family: monospace;
 }
